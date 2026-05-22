@@ -5,6 +5,10 @@ Hello! I'm Isnaini 👋  <br>An Information Systems student who loves learning a
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsnaini_sy) 
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2UxcW9zdWdzYXpnb2xreTBsbXo0dmpmcTRrbTU3YWZ4OHRpcmtoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ev2AnQzSFqHybop1jY/giphy.gif" width="100%">
+</p>
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 # 📊 GitHub Stats:
