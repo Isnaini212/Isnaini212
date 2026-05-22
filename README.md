@@ -3,7 +3,7 @@
   <img src="github-header-banner (1).png" width="100%"/>
 </p>
 
-Hello! I'm Isnaini 👋  <br>An Information Systems student who loves learning about technology and software development.  <br>I'm currently focused on Laravel, Python, and understanding how systems work from both business and technical perspectives.
+<br>An Information Systems student who loves learning about technology and software development.  <br>I'm currently focused on Laravel, Python, and understanding how systems work from both business and technical perspectives.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsnaini_sy) 
