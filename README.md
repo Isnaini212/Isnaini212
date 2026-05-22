@@ -6,7 +6,7 @@ Hello! I'm Isnaini 👋  <br>An Information Systems student who loves learning a
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsnaini_sy) 
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2UxcW9zdWdzYXpnb2xreTBsbXo0dmpmcTRrbTU3YWZ4OHRpcmtoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ev2AnQzSFqHybop1jY/giphy.gif" width="70%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2UxcW9zdWdzYXpnb2xreTBsbXo0dmpmcTRrbTU3YWZ4OHRpcmtoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ev2AnQzSFqHybop1jY/giphy.gif" width="50%">
 </p>
 
 # 💻 Tech Stack:
